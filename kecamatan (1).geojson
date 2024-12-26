@@ -3,6 +3,9 @@
     "features": [
         {
             "type": "Feature",
+            "properties": {
+                "kecamatan": "GAMBIR"
+                "population_density": 11764
             "geometry": {
                 "type": "Polygon",
                 "coordinates": [
